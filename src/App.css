@@ -1,0 +1,7 @@
+.bottles-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+h1{
+    text-align: center;
+}

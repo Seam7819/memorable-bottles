@@ -1,0 +1,8 @@
+.bottle-container img {
+    width: 200px;
+}
+.bottle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
